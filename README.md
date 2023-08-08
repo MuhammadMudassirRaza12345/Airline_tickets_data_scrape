@@ -4,9 +4,9 @@
 ###    sites for competitor analysis.
 
  ###  Create a program to scrape data from these two sites:
- Airline#1 :  https://www.gozayaan.com/
+ Airline1 :  https://www.gozayaan.com/
  
- Airline#2 : https://www.sastaticket.pk/ 
+ Airline2 : https://www.sastaticket.pk/ 
 
     Data for next three days (like 23, 24 and 25 of January ) for each site.
     Data of flights from KHI to ISB and KHI to LHE  for each site
