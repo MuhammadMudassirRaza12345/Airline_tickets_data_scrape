@@ -4,10 +4,12 @@
 ###    sites for competitor analysis.
 
  ###  Create a program to scrape data from these two sites:
-      https://www.gozayaan.com/ 
-      https://www.sastaticket.pk/
-     Data for next three days (like 23, 24 and 25 of January ) for each site.
-     Data of flights from KHI to ISB and KHI to LHE  for each site
+ Airline1 :  https://www.gozayaan.com/
+ 
+ Airline1 : https://www.sastaticket.pk/ 
+
+    Data for next three days (like 23, 24 and 25 of January ) for each site.
+    Data of flights from KHI to ISB and KHI to LHE  for each site
     products for each category.( You can use any technique to scrape data).Delivery: Submit code of this 
     scraper.
     Data points to capture: 
