@@ -21,7 +21,8 @@
 ###  Scrape highlighted data points :
 
   
-![Like This pic](https://github.com/MuhammadMudassirRaza12345/Hair_and_Conditioner_data_scrape/blob/main/Screenshot%20from%202023-08-06%2001-01-23.png)
+![Like This pic](https://github.com/MuhammadMudassirRaza12345/Airline_tickets_data_scrape/blob/main/Screenshot%20from%202023-08-08%2013-21-36.png)
+![Like This pic](https://github.com/MuhammadMudassirRaza12345/Airline_tickets_data_scrape/blob/main/Screenshot%20from%202023-08-08%2013-22-06.png)
 
 
 
